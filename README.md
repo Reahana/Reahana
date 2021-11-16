@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 I'm Reahana from Bangladesh. I'm a web designer and developer. I really enjoy learning languages and frameworks. You can check out my twitter and linkedin acoount https://twitter.com/AmandaReahana & https://www.linkedin.com/in/amanda-reahana-gomes-1450a7192/
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reahana)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Reahana/Reahana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
