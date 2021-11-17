@@ -2,7 +2,6 @@
 #### Designer & Developer
 I'm Reahana from Bangladesh. I'm a web designer and developer. I really enjoy learning languages and frameworks,as well as I design banners.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reahana)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Skills: JS/PHP/JQuery/HTML/CSS
