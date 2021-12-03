@@ -6,10 +6,10 @@ I'm Reahana from Bangladesh. I'm a web designer and developer. I really enjoy le
 
 Skills: JS/PHP/JQuery/HTML/CSS/Bootstrap
 
-- 🔭 I’m currently working on Bootstrap project 
+- 🔭 I’m currently working on PHP project 
 - 🌱 I’m currently learning PHP 
 - 👯 I’m looking to collaborate on  with other Developers  
-- 🤔 I’m looking for help with nodejs 
+- 🤔 I’m looking for help with nodejs & react
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Reahana)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amanda-reahana-gomes-1450a7192/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/reahana.gomes.1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/reahana10/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AmandaReahana)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17415412)  
