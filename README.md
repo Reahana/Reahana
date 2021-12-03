@@ -4,7 +4,7 @@ I'm Reahana from Bangladesh. I'm a web designer and developer. I really enjoy le
 
 
 
-Skills: JS/PHP/JQuery/HTML/CSS
+Skills: JS/PHP/JQuery/HTML/CSS/Bootstrap
 
 - 🔭 I’m currently working on Bootstrap project 
 - 🌱 I’m currently learning PHP 
