@@ -6,8 +6,8 @@ I'm Reahana from Bangladesh. I'm a web designer and developer. I really enjoy le
 
 Skills: JS/PHP/JQuery/HTML/CSS/Bootstrap/Laravel/Nodejs
 
-- 🔭 I’m currently working on PHP project 
-- 🌱 I’m currently learning PHP 
+- 🔭 I’m currently working on Laravel project 
+- 🌱 I’m currently learning PHP Laravel
 - 👯 I’m looking to collaborate on  with other Developers  
 - 🤔 I’m looking for help with nodejs & react
 
