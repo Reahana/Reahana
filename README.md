@@ -9,7 +9,7 @@ Skills: JS/PHP/JQuery/HTML/CSS/Bootstrap/Laravel/Nodejs
 - 🔭 I’m currently working on Laravel project 
 - 🌱 I’m currently learning PHP Laravel
 - 👯 I’m looking to collaborate on  with other Developers  
-- 🤔 I’m looking for help with  Laravel project 
+- 🤔 I’m looking for help with  Laravel
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Reahana)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amanda-reahana-gomes-1450a7192/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/reahana.gomes.1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/reahana10/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AmandaReahana)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17415412)  
