@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Amanda Reahana Gomes
-#### Designer & Developer
+#### Web Designer|| Web Developer || Laravel Developer || Content Creator
 I'm Reahana from Bangladesh. I'm a web designer and developer. I really enjoy learning languages and frameworks,as well as I design banners.
 
 
