@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **reahana233@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/1/folders/1PE6EPlKnkVW2yhKI8ymrrMu7gw8c_tr-](https://drive.google.com/drive/u/1/folders/1PE6EPlKnkVW2yhKI8ymrrMu7gw8c_tr-)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1alE4DLh1lKehh5z8i1eE603AKUXaRJkd/view?usp=sharing](https://drive.google.com/file/d/1alE4DLh1lKehh5z8i1eE603AKUXaRJkd/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,6 +29,7 @@
 <a href="https://fb.com/reahana.gomes.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="reahana.gomes.1" height="30" width="40" /></a>
 <a href="https://instagram.com/reahana10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reahana10" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/amanda reahana gomes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amanda reahana gomes" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/reahana233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="reahana233" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
