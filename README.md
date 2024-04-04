@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on web design<br><br>🌱 I’m currently learning to react<br><br>👯 I’m looking to collaborate on Laravel projects<br><br>🤝 I’m looking for help with react<br><br>👨‍💻 All of my projects are available at https://reahana.github.io/AmandaReahanaGomes.Portfolio/<br><br>💬 Ask me about Laravel<br><br>📫 How to reach me reahana233@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1alE4DLh1lKehh5z8i1eE603AKUXaRJkd/view?usp=sharing
+I'm Amanda Reahana Gomes and I am a web developer. <br><br> I’m currently working on web design<br><br>🌱 I’m currently learning to react<br><br>👯 I’m looking to collaborate on Laravel projects<br><br>🤝 I’m looking for help with react<br><br>👨‍💻 All of my projects are available at https://reahana.github.io/AmandaReahanaGomes.Portfolio/<br><br>💬 Ask me about Laravel<br><br>📫 How to reach me reahana233@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1alE4DLh1lKehh5z8i1eE603AKUXaRJkd/view?usp=sharing
 
 
 ## 🌐 Socials:
