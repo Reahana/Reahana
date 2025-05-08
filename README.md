@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reahana" alt="reahana" /></a> </p>
 
-- 🔭 I’m currently working on [Fugitive Tracker](https://github.com/Reahana/fugitive-tracker)
+- 🔭 I’m currently working on [DevTech-website-new-design](https://github.com/Reahana/DevTech-website-new-design)
 
 - 🌱 I’m currently learning **React**
 
