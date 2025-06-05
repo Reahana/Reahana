@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://reahana.github.io/AmandaReahanaGomes.Portfolio/](https://reahana.github.io/AmandaReahanaGomes.Portfolio/)
+- 👨‍💻 All of my projects are available at [(https://reahanagomes.netlify.app/)/](https://reahanagomes.netlify.app/))
 
 - 💬 Ask me about **Laravel**
 
