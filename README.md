@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [DevTech-website-new-design](https://github.com/Reahana/DevTech-website-new-design)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Wordpress**
 
 - 👨‍💻 All of my projects are available at [(https://reahanagomes.netlify.app/)/](https://reahanagomes.netlify.app/))
 
